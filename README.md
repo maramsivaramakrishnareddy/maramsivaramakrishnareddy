@@ -1,87 +1,160 @@
-# 👋 Hi, I'm Siva Rama Krishna Reddy
+# 👋 Hi, I'm Sivaramakrishnareddy Maram
 
-**Java Full Stack Developer (Learning) · B.Tech IT · Gudlavalleru Engineering College**
+### 🚀 Java Full Stack Developer | AWS Certified Solutions Architect – Associate | Google Ambassador 2026
 
-🟢 **Open to Internships** — Java / Full Stack / Backend
-
----
-
-## 📋 Personal Info
-
-- 📍 Kothapalem, Tallur Mandalam, Prakasam Dist, Andhra Pradesh
-- 🎓 Gudlavalleru Engineering College — B.Tech Information Technology (2nd Year)
-- 📧 sivaramakrishnareddy90@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/siva-rama-krishna-reddy-maram-656671337)
+Passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. I enjoy solving real-world problems through software development and continuously improving my skills in Java, Spring Boot, Cloud Computing, and Machine Learning.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Professional Summary
 
-- 🎓 2nd Year B.Tech Information Technology — Gudlavalleru Engineering College
-- ☕ Focused on Java Full Stack — Spring Boot, Hibernate, JPA, MySQL
-- 🌐 Frontend: HTML, CSS, JavaScript, Thymeleaf
-- 🤖 Also exploring Python & AI-powered web apps
-- 📈 Currently building real-world projects to strengthen backend skills
-- 💼 Actively looking for internship opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-BCAE79?style=for-the-badge&logo=hibernate&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F25?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-### Tools & Others
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05028?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* 🎓 B.Tech Information Technology Student
+* 🏫 Gudlavalleru Engineering College
+* ☁️ AWS Certified Solutions Architect – Associate
+* 🌟 Google Ambassador 2026
+* 💻 Full Stack & Backend Development Enthusiast
+* 🤖 Exploring Machine Learning and AI Applications
+* 🚀 Building production-oriented projects using modern technologies
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Skills
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| ☕ Java Projects Collection | 16+ Java programs — OOP, data structures, mini apps | Java | [View](https://github.com/maramsivaramakrishnareddy/Java-Projects) |
-| 🤖 AI Post Generator | AI-powered social media post generator | Python, FastAPI, HTML/CSS | [Live Demo](https://ai-post-generator-eta.vercel.app) |
-| 🚧 Spring Boot Project | Full stack app — Spring Boot + MySQL + Thymeleaf | Spring Boot, MySQL | Coming Soon |
+### Backend Development
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* Maven
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Thymeleaf
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* H2 Database
+
+### Cloud & DevOps
+
+* AWS
+* Git
+* GitHub
+* Docker
+* Kubernetes
+
+### Programming Languages
+
+* Java
+* Python
+* SQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Brain Tumor Detection
+
+Deep Learning application for brain tumor classification using computer vision techniques.
+
+**Tech Stack:** Python, PyTorch, Flask, Deep Learning
+
+🔗 https://github.com/maramsivaramakrishnareddy/brain-tumor-detection
+
+---
+
+### 🏥 Medical Chatbot NLP
+
+AI-powered medical chatbot using Natural Language Processing and Deep Learning.
+
+**Tech Stack:** Python, Flask, PyTorch, NLP
+
+🔗 https://github.com/maramsivaramakrishnareddy/medical-chatbot-nlp
+
+---
+
+### 👨‍💼 Employee Management System
+
+Full Stack Employee Management System with complete CRUD functionality.
+
+**Tech Stack:** Spring Boot, React JS, MySQL
+
+🔗 https://github.com/maramsivaramakrishnareddy/employee-management-system
+
+---
+
+### 🐾 PetCare Management System
+
+Enterprise-level Spring Boot application customized from Spring PetClinic architecture.
+
+**Tech Stack:** Spring Boot, JPA, Hibernate, Thymeleaf
+
+🔗 https://github.com/maramsivaramakrishnareddy/spring-petclinic-custom
+
+---
+
+### ☕ Java Projects Collection
+
+Collection of Java programs covering OOP, Collections, Exception Handling, File Handling, and Mini Applications.
+
+**Tech Stack:** Java
+
+🔗 https://github.com/maramsivaramakrishnareddy/Java-Projects
 
 ---
 
 ## 📚 Currently Learning
 
-- 🌱 Spring Boot REST APIs & Microservices
-- 🗄️ Hibernate Advanced Mappings
-- 🔍 SQL Query Optimization
-- ⚛️ React.js (Next up!)
+* Spring Security
+* Microservices Architecture
+* Docker & Kubernetes
+* AWS Deployment
+* System Design Fundamentals
+* React.js Advanced Concepts
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maramsivaramakrishnareddy&show_icons=true&theme=tokyonight&hide_border=true)
+* ☁️ AWS Certified Solutions Architect – Associate
+* 🌟 Google Ambassador 2026
+* 💻 Active Open Source Learner
+* 🚀 Building a Professional Developer Portfolio
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maramsivaramakrishnareddy&theme=tokyonight&hide_border=true)
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maramsivaramakrishnareddy\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maramsivaramakrishnareddy\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-rama-krishna-reddy-maram-656671337)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivaramakrishnareddy90@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maramsivaramakrishnareddy)
+🔗 LinkedIn
+https://www.linkedin.com/in/siva-rama-krishna-reddy-maram-656671337
+
+📧 Email
+[sivaramakrishnareddy90@gmail.com](mailto:sivaramakrishnareddy90@gmail.com)
+
+🐙 GitHub
+https://github.com/maramsivaramakrishnareddy
 
 ---
 
-⭐ *If you find my projects useful, consider giving them a star!*
+## 💡 Motto
+
+> "Consistency, curiosity, and continuous improvement are the foundations of long-term success in software engineering."
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
